@@ -9,6 +9,8 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+/[Pp]ackages/manifest.json.meta
+/[Pp]rojectSettings/ProjectSettings.asset.meta
 /[Uu]ser[Ss]ettings/
 *.log
 
